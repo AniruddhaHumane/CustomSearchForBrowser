@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Koohi Search",
+  "version": "1.0",
+  "permissions": ["contextMenus"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
